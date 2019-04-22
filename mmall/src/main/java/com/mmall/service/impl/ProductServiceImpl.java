@@ -37,6 +37,7 @@ public class ProductServiceImpl implements IProductService {
     @Autowired
     private CategoryMapper categoryMapper;
 
+
     @Autowired
     private ICategoryService iCategoryService;
 
